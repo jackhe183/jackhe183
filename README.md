@@ -1,5 +1,7 @@
 # Jack He 🍋
 
+**English** | [简体中文](https://github.com/jackhe183/jackhe183/blob/main/README.zh-CN.md)
+
 ## About Me
 
 I'm Jack, an AI Evaluation Engineer based in Hangzhou, China. I also go by Lemon.
